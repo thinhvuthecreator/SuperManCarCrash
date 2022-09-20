@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\bin\Debug\GameDuaXe.exe.config
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\bin\Debug\GameDuaXe.exe
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\bin\Debug\GameDuaXe.pdb
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.fGameRunning.resources
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.Properties.Resources.resources
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.exe
+C:\Users\admin\source\repos\GameDuaXe\GameDuaXe\obj\Debug\GameDuaXe.pdb
